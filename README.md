@@ -9,7 +9,7 @@ Upload any CSV dataset and InsightCopilot will:
 - Generate adaptive visualizations
 - Provide executive-style insights
 
-## Try it yourself\
+## Try it yourself
 Upload your own CSV dataset and explore analytics instantly.
 
 Sample datasets are linked hear : 
